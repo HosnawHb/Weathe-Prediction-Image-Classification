@@ -11,7 +11,8 @@ The dataset was randomly divided into an 80% training set and a 20% testing set.
 3️⃣ Model development and training:</br >
 Different models using deep learning libraries were designed and implemented. Beginning with a deep neural network consisting of dense or fully connected layers. The number of layers gradually increased, and various activation functions were tested leading to choosing the best model by performance comparison. </br > </br >
 4️⃣ ResNet model implementation: </br >
-A model was designed based on the ResNet architecture, with a minimum of four residual blocks. Multiple architecture configurations was explored, along with hyperparameter choices, in order to achieve the best results. </br > </br >
+A model was designed based on the ResNet architecture, with a minimum of four residual blocks. Multiple architecture configurations was explored, along with hyperparameter choices, in order to achieve the best results. </br > 
+<div align="center"><img src="https://github.com/HosnawHb/Weather-Prediction-Image-Classification/blob/main/ResNet.png?raw=true"/></div> </br > </br>
 5️⃣ Inception Network implementation: </br >
 Cues were taken from the Inception Network, with a minimum of three Inception modules. Similar to the previous step, various architecture designs and hyperparameter settings were tested. </br > </br >
 6️⃣ Model evaluation with k-fold cross-validation:</br >
