@@ -3,7 +3,7 @@
 In this project, I worked with the Multi-class Weather Dataset 🌦️. <br />
 This dataset consists of four main classes: 🌧️ Rain, ☀️ Shine, 🌅 Sunrise, and 🌥️ Cloudy. For more detailed information about this dataset, you can check out [Multi-Class Weather Dataset](https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset).<br />
 The purpose of this project was to get familiar with computer vision ,image processing and deep convolutional neural networks.<br />
-To better understand the dataset, the following steps were performed: <br /> <br />
+The following steps were performed: <br /> <br />
 1️⃣ Import and check the dataset:</br >
 Analyzing the dataset by examining the number of images available and the data distribution among each class. Additionally, the varying dimensions of the images and devise appropriate strategies to handle them was considered.<br /> <br />
 2️⃣ Dataset split:</br >
