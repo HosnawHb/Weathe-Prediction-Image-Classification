@@ -1,9 +1,11 @@
 # Weather Prediction Image Classification
 👋 Hey there!
+## Purpose
 In this project, I worked with the Multi-class Weather Dataset 🌦️. <br />
 This dataset consists of four main classes: 🌧️ Rain, ☀️ Shine, 🌅 Sunrise, and 🌥️ Cloudy. For more detailed information about this dataset, you can check out [Multi-Class Weather Dataset](https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset).<br />
 The purpose of this project was to get familiar with computer vision ,image processing and deep convolutional neural networks.<br />
-The following steps were performed: <br /> <br />
+
+## Description
 1️⃣ Import and check the dataset:</br >
 Analyzing the dataset by examining the number of images available and the data distribution among each class. Additionally, the varying dimensions of the images and devise appropriate strategies to handle them was considered.<br /> <br />
 2️⃣ Dataset split:</br >
@@ -17,9 +19,12 @@ A model was designed based on the ResNet architecture, with a minimum of four re
 Cues were taken from the Inception Network, with a minimum of three Inception modules. Similar to the previous step, various architecture designs and hyperparameter settings were tested. </br > </br >
 6️⃣ Model evaluation with k-fold cross-validation:</br >
 From the top-performing models in terms of accuracy, three models were selected for evaluation using k-fold cross-validation with k=5. Alongside evaluation metrics, the Confusion Matrix is visualized to provide further insights. </br > </br >
-Feel free to explore the repository and refer to the detailed report for more information on the dataset analysis, model development, and evaluation results.
 
+## Team Members
+[Hosna Habibi](https://github.com/HosnawHb) </br>
+[Pooya Kavosh](https://github.com/Jarvis017) </br>
 
+Please refer to the code in the repository for a step-by-step guide on implementing the neural network, training the model, and evaluating its performance.
 
 
 
